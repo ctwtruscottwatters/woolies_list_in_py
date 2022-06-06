@@ -4,55 +4,54 @@ runfile('C:/Users/Charles_Truscott/Desktop/recipe.py', wdir='C:/Users/Charles_Tr
 Milk
 			Cost: $14.0 AUD	Cost per unit: $3.5 AUD	Qty: 4.0
 
-			Cost: $11.9 USD	Cost per unit: $2.98 USD	Qty: 4.0
+			Cost: $10.22 USD	Cost per unit: $2.55 USD	Qty: 4.0
 
 Bread
 			Cost: $3.8 AUD	Cost per unit: $3.8 AUD	Qty: 1.0
 
-			Cost: $3.23 USD	Cost per unit: $3.23 USD	Qty: 1.0
+			Cost: $2.77 USD	Cost per unit: $2.77 USD	Qty: 1.0
 
 Butter
 			Cost: $16.5 AUD	Cost per unit: $5.5 AUD	Qty: 3.0
 
-			Cost: $14.02 USD	Cost per unit: $4.68 USD	Qty: 3.0
+			Cost: $12.04 USD	Cost per unit: $4.01 USD	Qty: 3.0
 
 Eggs
 			Cost: $7.5 AUD	Cost per unit: $7.5 AUD	Qty: 1.0
 
-			Cost: $6.38 USD	Cost per unit: $6.38 USD	Qty: 1.0
+			Cost: $5.48 USD	Cost per unit: $5.48 USD	Qty: 1.0
 
 Cheese
 			Cost: $12.5 AUD	Cost per unit: $6.25 AUD	Qty: 2.0
 
-			Cost: $10.62 USD	Cost per unit: $5.31 USD	Qty: 2.0
+			Cost: $9.12 USD	Cost per unit: $4.56 USD	Qty: 2.0
 
 Raw Sugar
 			Cost: $2.5 AUD	Cost per unit: $2.5 AUD	Qty: 1.0
 
-			Cost: $2.12 USD	Cost per unit: $2.12 USD	Qty: 1.0
+			Cost: $1.82 USD	Cost per unit: $1.82 USD	Qty: 1.0
 
 T-Bone Steak
 			Cost: $66.0 AUD	Cost per unit: $16.5 AUD	Qty: 4.0
 
-			Cost: $56.1 USD	Cost per unit: $14.02 USD	Qty: 4.0
+			Cost: $48.18 USD	Cost per unit: $12.04 USD	Qty: 4.0
 
 Diced Beef
 			Cost: $26.0 AUD	Cost per unit: $13.0 AUD	Qty: 2.0
 
-			Cost: $22.1 USD	Cost per unit: $11.05 USD	Qty: 2.0
+			Cost: $18.98 USD	Cost per unit: $9.49 USD	Qty: 2.0
 
 Madura Tea
 			Cost: $25.0 AUD	Cost per unit: $6.25 AUD	Qty: 4.0
 
-			Cost: $21.25 USD	Cost per unit: $5.31 USD	Qty: 4.0
+			Cost: $18.25 USD	Cost per unit: $4.56 USD	Qty: 4.0
 
 Moccona Coffee
 			Cost: $26.0 AUD	Cost per unit: $26.0 AUD	Qty: 1.0
 
-			Cost: $22.1 USD	Cost per unit: $22.1 USD	Qty: 1.0
+			Cost: $18.98 USD	Cost per unit: $18.98 USD	Qty: 1.0
 
-Total cost in AUD: 199.8 		 Total cost in USD: 169.83
-
+Total cost in AUD: 199.8 		 Total cost in USD: 145.85
 
 
 """
@@ -60,7 +59,7 @@ Total cost in AUD: 199.8 		 Total cost in USD: 169.83
 Actual measurements taken in PSI, grams, kilograms, items (objects) or litres
 """
 import numpy
-rough_AUD_to_USD_conversion_factor_market_value = 0.85
+rough_AUD_to_USD_conversion_factor_market_value = 0.73
 cost_in_AUD = 0
 cost_in_USD = 0
 
